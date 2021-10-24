@@ -1,5 +1,5 @@
 # Hello There
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditw11mhs&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditw11mhs&hide=jupyter%20notebook,html,dart,shell,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ditw11mhs)](https://github.com/anuraghazra/github-readme-stats)
 
