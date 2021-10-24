@@ -1,7 +1,7 @@
 # Hello There
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditw11mhs&hide=jupyter%20notebook,html,dart,shell,swift,kotlin,objective-c&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ditw11mhs&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ditw11mhs&theme=dark&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ditw11mhs/ditw11mhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
